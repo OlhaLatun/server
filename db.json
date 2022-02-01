@@ -114,35 +114,5 @@
      "weaknesses":"May tend to be shy and reserved , Perfectionist tendencies may cause them to not give themselves enough credit",
      "img":"https://superawesomevectors.com/wp-content/uploads/2017/10/ralph-wiggum-simpsons-free-vector-800x566.jpg"
   }
-},
-"clients": [
-   {
-      "id": 655,
-      "firstName": "Anteria",
-      "lastName": "Slocum",
-      "email": "SPaulsen@donec.org",
-      "phone": "(967)760-0580",
-      "adress": {
-         "streetAddress": "6388 Lacus Ct",
-         "city": "Kenora",
-         "state": "IA",
-         "zip": "49758"
-      },
-      "description": "{lorem|32"
-   },
-   {
-      "id": 142,
-      "firstName": "Carmerlina",
-      "lastName": "User",
-      "email": "CGuanzon@lacus.org",
-      "phone": "(268)280-4603",
-      "adress": {
-         "streetAddress": "6057 Vitae Rd",
-         "city": "Washington",
-         "state": "AR",
-         "zip": "32202"
-      },
-      "description": "{lorem|32"
-   }
-  ]   
+} 
 }
